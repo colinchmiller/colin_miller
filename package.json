@@ -1,0 +1,11 @@
+{
+  "name": "colin_miller",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Miller",
+  "license": "ISC"
+}
